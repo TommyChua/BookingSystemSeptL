@@ -1,0 +1,2 @@
+Customer a a booked Appointment on 02/02/2016 2:00 pm 4:00 pm Customer a a booked Appointment on 02/02/2016 2:00 pm 4:00 pm Customer a a booked Appointment on 02/05/2016 4:20 pm 6:00 pm Customer a a booked Appointment on 02/02/2016 2:00 pm 4:00 pm Customer a a booked Appointment on 02/06/2016 7:30 pm 8:45 pm Customer Tom a booked Appointment on 02/06/2016 7:30 pm 8:45 pm Customer Tom a booked Appointment on 02/01/2017 09:00 am 10:00 AM 
+Customer a a booked Appointment on 02/01/2017 06:00 am 07.00 am 
